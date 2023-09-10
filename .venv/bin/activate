@@ -2,7 +2,7 @@
 # you cannot run it directly
 
 # OpenAI API
-export OPENAI_API_KEY=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
+export OPENAI_API_KEY=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
 
 deactivate () {
     # reset old environment variables
